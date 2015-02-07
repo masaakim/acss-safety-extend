@@ -19,7 +19,7 @@ module.exports = function plugin (css, options) {
 function checkBaseRule (node) {
     if (node.nodes) {
         var children = node.nodes
-        vat text = ''
+        var text = ''
         children.forEach(function (child) {
             if (child.type === 'comment') text = child.text
         })
