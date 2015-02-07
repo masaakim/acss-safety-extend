@@ -1,14 +1,12 @@
-# postcss-safety-extend [![Build Status](https://travis-ci.org/morishitter/postcss-safety-extend.svg)](https://travis-ci.org/morishitter/postcss-safety-extend)
+# acss-safety-extend [![Build Status](https://travis-ci.org/morishitter/acss-safety-extend.svg)](https://travis-ci.org/morishitter/acss-safety-extend)
 
-safety @extend module for ACSS
+safety `@extend` module for ACSS
 
 ## Install
 
 ```shell
-$ npm install postcss-safety-extend
+$ npm install acss-safety-extend
 ```
-
-## Example
 
 ## License
 

@@ -1,9 +1,5 @@
-var parse = require('css-annotation').parse
-
 module.exports = function plugin (css, options) {
     options = options || {}
-
-    var annotations = parse(css)
 
     return function (root) {
         root.eachRule(function (rule) {
