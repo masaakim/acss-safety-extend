@@ -1,6 +1,6 @@
 {
   "name": "acss-safety-extend",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "safety `@extend` module for ACSS",
   "main": "index.js",
   "scripts": {
